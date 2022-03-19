@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fancy-angel/My-TODOList-App.git/static/css/main.06a6fa1c.css",
+    "main.js": "/Fancy-angel/My-TODOList-App.git/static/js/main.fbdfabac.js",
+    "index.html": "/Fancy-angel/My-TODOList-App.git/index.html",
+    "main.06a6fa1c.css.map": "/Fancy-angel/My-TODOList-App.git/static/css/main.06a6fa1c.css.map",
+    "main.fbdfabac.js.map": "/Fancy-angel/My-TODOList-App.git/static/js/main.fbdfabac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06a6fa1c.css",
+    "static/js/main.fbdfabac.js"
+  ]
+}
